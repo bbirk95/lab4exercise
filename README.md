@@ -1,1 +1,1 @@
-Lab 4
+This repository is created for the week 4's lab exercise.
